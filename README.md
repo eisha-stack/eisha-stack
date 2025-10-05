@@ -18,6 +18,13 @@ Practicing Data Structures and Algorithms to enhance my problem-solving abilitie
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=eisha-stack&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
+## My Holopin Badges 🎖️
+[![An image of @eishastack's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eishastack)](https://holopin.io/@eishastack)
+
+### Open Source Contributions
+- First PR: [ghostmkg/dsa-code #397](https://github.com/ghostmkg/dsa-code/pull/397) ✅
+- Hacktoberfest 2025 participant 🚀
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
